@@ -1,18 +1,18 @@
 # Hi there, I'm Derin! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Senior+Solutions+Engineer;Apache+Airflow+Expert;Data+Orchestration+Specialist;Building+Scalable+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9333EA&center=true&vCenter=true&width=435&lines=Lead+Solutions+Engineer;Apache+Airflow+Expert;Data+Orchestration+Specialist;Building+Scalable+Pipelines" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a **Senior Solutions Engineer at [Astronomer](https://www.astronomer.io/)**, specializing in Apache Airflow and modern data orchestration. I help organizations build robust, scalable data pipelines and optimize their workflow orchestration strategies.
+I'm a **Lead Solutions Engineer at [Astronomer](https://www.astronomer.io/)**, specializing in Apache Airflow and modern data orchestration. I help organizations build robust, scalable data pipelines and optimize their workflow orchestration strategies.
 
 ```python
 class SolutionsEngineer:
     def __init__(self):
         self.name = "Derin J"
-        self.role = "Senior Solutions Engineer"
+        self.role = "Lead Solutions Engineer"
         self.company = "Astronomer"
         self.location = "Hyderabad, India 🇮🇳"
         self.expertise = ["Apache Airflow", "Data Orchestration", "Python", "Cloud Architecture"]
@@ -86,5 +86,5 @@ me.say_hi()
   
   ### 💭 "Orchestrating data pipelines is not just about moving data; it's about creating reliable, scalable, and maintainable workflows that power business decisions."
   
-  ⭐️ From [derinj7](https://github.com/derinj7) | Senior Solutions Engineer @ [Astronomer](https://www.astronomer.io/)
+  ⭐️ From [derinj7](https://github.com/derinj7) | Lead Solutions Engineer @ [Astronomer](https://www.astronomer.io/)
 </div>
