@@ -9,7 +9,7 @@
 11+ years in software engineering &nbsp;·&nbsp; 4+ building production data platforms
 
 <a href="https://www.linkedin.com/in/derinjtom"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/derin_j_7"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://x.com/derinjtom"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 
 </div>
 
@@ -94,11 +94,6 @@ class Derin:
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=derinj7&show_icons=true&hide=stars,issues&hide_rank=true&hide_border=true&bg_color=00000000&title_color=9333EA&icon_color=9333EA&text_color=808080" height="150" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derinj7&layout=compact&hide_border=true&bg_color=00000000&title_color=9333EA&text_color=808080" height="150" alt="Top languages" />
-
-<br/><br/>
 
 ### 💭 "Helping teams move from *we have workflows* to *we have a well-run platform*."
 
